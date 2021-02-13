@@ -9,7 +9,7 @@
               <v-icon color="#18FFFF">
                 mdi-plus
               </v-icon>  
-              新規作成
+              新
             </v-btn>
         </div>  
         <v-simple-table>
